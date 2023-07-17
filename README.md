@@ -5,7 +5,6 @@
 ## Source Code and Lecture Notes 
 - You can find different packages in `src` folder according to Core Java concepts. For example, `edu.vit.corejava.basics` will contain Java Language Basics Source Code.
 - You can navigate `lecture_notes` folder to access class notes in `markdown (md)` file format.
-- LAB Activities Source Code is available in the edu.vit.corejava.lab package.
 
 ## VSCode Extensions
 - `Code Spell Checker`:  https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
