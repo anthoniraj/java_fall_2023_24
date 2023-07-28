@@ -6,7 +6,7 @@ Visual Studio Code  (VS Code) is the simple and lightweight editor that can be c
 - Java Development Kit (JDK):  `Microsoft OpenJDK version 17`
 - Editor: `VS Code`
 
-## Install Bell Soft OpenJDK
+## Install Microsoft OpenJDK
 Download and install Microsoft OpenJDK from the official website (64-Bit Full JDK)
 - https://aka.ms/download-jdk/microsoft-jdk-17.0.8-windows-x64.msi
 - After installing the JDK, Go to `Command window and check the java version,
