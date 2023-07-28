@@ -16,11 +16,11 @@ Download and install Microsoft OpenJDK from the official website (64-Bit Full JD
 - Download Link: https://code.visualstudio.com/download
 - After installing VS Code, Navigate `extension icon` and search by typing the keyword `java`
 - Install `Extension Pack for Java` plugin from Microsoft
-![vscode_01](https://raw.githubusercontent.com/anthoniraj/java_fall_2022_23/master/images/vscode_java_project_01.png)
+![vscode_01](../images/vscode_java_project_01.png)
 
 ## Create a Java Project
 - Press Ctrl+Shift+P -> Search `java` in popup then choose `Java: Create Java Project` option
-![vscode_02](https://raw.githubusercontent.com/anthoniraj/java_fall_2022_23/master/images/vscode_java_project_02.png)
+![vscode_02](../images/vscode_java_project_02.png)
 - Select `No Build Tools`
 - Now `Choose the workspace directory` for your java project
 - Input `Java Project Name` E.g. `Demo` and then `press Enter to confirm`
@@ -30,4 +30,4 @@ Download and install Microsoft OpenJDK from the official website (64-Bit Full JD
 - Navigate `App.java` in `src` folder of your Java project
 - you can find `Run` option before main method of App.java
 - Just Click `Run` to execute the Java Program
-![vscode_03](https://raw.githubusercontent.com/anthoniraj/java_fall_2022_23/master/images/vscode_java_project_03.png)
+![vscode_03](../images/vscode_java_project_03.png)
