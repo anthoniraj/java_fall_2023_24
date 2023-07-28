@@ -2,11 +2,12 @@ package edu.vit.corejava.basics;
 /*
  * Demo "Hello World" Java Program
  * @author Anthoniraj Amalanathan
- * @since 21-Jul-2022
+ * @since 27-Jul-2023
  */
 
 public class JavaProgramStructure {
     public static void main(String[] args) {
-         System.out.println("Welcome to Java");
+         String message = "Welcome to Java";
+         System.out.println(message);
        }
 }
