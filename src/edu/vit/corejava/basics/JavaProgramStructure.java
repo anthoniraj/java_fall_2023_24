@@ -1,5 +1,4 @@
 package edu.vit.corejava.basics;
-
 /*
  * Demo "Hello World" Java Program
  * @author Anthoniraj Amalanathan
@@ -8,6 +7,6 @@ package edu.vit.corejava.basics;
 
 public class JavaProgramStructure {
     public static void main(String[] args) {
-        System.out.println(args[0] + " " + args[1]);
-    }
+         System.out.println("Welcome to Java");
+       }
 }
