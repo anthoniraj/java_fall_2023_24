@@ -3,12 +3,12 @@
 - Date: 28-07-2023
 
 Visual Studio Code  (VS Code) is the simple and lightweight editor that can be customized for any programming language. Microsoft provides a powerful VS Code plugin for Java Development. You need a stable JDK for developing Java Project.
-- Java Development Kit (JDK):  `Bell Soft OpenJDK version 17`
+- Java Development Kit (JDK):  `Microsoft OpenJDK version 17`
 - Editor: `VS Code`
 
 ## Install Bell Soft OpenJDK
-Download and install OpenJDK from the official website (64-Bit Full JDK)
-- https://download.bell-sw.com/java/17.0.3.1+2/bellsoft-jdk17.0.3.1+2-windows-amd64-full.msi
+Download and install Microsoft OpenJDK from the official website (64-Bit Full JDK)
+- https://aka.ms/download-jdk/microsoft-jdk-17.0.8-windows-x64.msi
 - After installing the JDK, Go to `Command window and check the java version,
 	- `java -version`
 
