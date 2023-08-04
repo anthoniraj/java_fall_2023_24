@@ -11,10 +11,10 @@ An expression is a combination of one or more operands, zero or more operators, 
 - parentheses: 
     - (x+3y) + 3 / (n+5)
 
-## Demo Program
-A spinner of radius is divided into 6 equal sectors. Find the area of each of the
+## Sample Program
+A spinner of radius is divided into 4 equal sectors. Find the area of each of the
 sectors. 
 - Get radius from the Console
-- Use Constant for PI
+- Use Constant for PI (Understand static variable and final keyword)
 - Use Console for Input and Output
 - Use pow() method for calculation
